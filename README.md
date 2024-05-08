@@ -9,3 +9,7 @@
 ## Actualmente me encuentro terminando el bloque de "Description", que consiste en la elaboración de una tabla realizada con flex conjuntamente con algunos apartados descriptivos.
 
 ## El resultado final será el mostrado en la imagén anterior con la posibilidad de agregarle más funciones y estilos
+
+# Lo que falta:
+
+## Agregar la sección del Footer
