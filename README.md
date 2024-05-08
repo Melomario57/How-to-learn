@@ -4,12 +4,14 @@
 
 ![alt text](image.png)
 
-## Se compone de 6 bloques, cada uno con su clase correspondiente
+## Se compone de 6 bloques, cada uno con su clase correspondiente.
 
-## Actualmente me encuentro terminando el bloque de "Description", que consiste en la elaboración de una tabla realizada con flex conjuntamente con algunos apartados descriptivos.
+## El resultado final será el mostrado en la imagén anterior.
 
-## El resultado final será el mostrado en la imagén anterior con la posibilidad de agregarle más funciones y estilos
+# Actualización:
+
+## Se ha agregado todos los bloques con su contenido correspondiente.
 
 # Lo que falta:
 
-## Agregar la sección del Footer
+## Más adelante se agregaran nuevas funcionalidades para que la página sea interactiva, y algunas otras secciones.
